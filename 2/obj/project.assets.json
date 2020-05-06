@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Labs\\OOP\\LAB2\\2\\2\\2.csproj",
+      "projectUniqueName": "D:\\Labs\\OOP\\GIT\\1\\OOP_Lab2_2\\2\\2.csproj",
       "projectName": "2",
-      "projectPath": "D:\\Labs\\OOP\\LAB2\\2\\2\\2.csproj",
+      "projectPath": "D:\\Labs\\OOP\\GIT\\1\\OOP_Lab2_2\\2\\2.csproj",
       "packagesPath": "C:\\Users\\CHEMIST\\.nuget\\packages\\",
-      "outputPath": "D:\\Labs\\OOP\\LAB2\\2\\2\\obj\\",
+      "outputPath": "D:\\Labs\\OOP\\GIT\\1\\OOP_Lab2_2\\2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CHEMIST\\AppData\\Roaming\\NuGet\\NuGet.Config",

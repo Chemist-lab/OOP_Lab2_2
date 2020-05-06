@@ -16,11 +16,10 @@ namespace _2
             double x = a + dx;
             Console.WriteLine("  x       y=f(x)\n");
             while (x <= b)
-            {
-                
-                x +=dx;
+            {  
                 res = (Math.Log10(x)) / (4 * x + 13);
                 Console.WriteLine(Math.Round(x, 5) + "  |  "+ Math.Round(res, 5));
+                x += dx;
             }
         }
     }
