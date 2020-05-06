@@ -15,11 +15,11 @@ namespace _2
             float dx = float.Parse(Console.ReadLine());
             double x = a + dx;
             Console.WriteLine("  x       y=f(x)\n");
-            while (x < b)
+            while (x <= b)
             {
-                res = (Math.Log10(x))/(4*x+13);
-                x += x + dx;
                 
+                x +=dx;
+                res = (Math.Log10(x)) / (4 * x + 13);
                 Console.WriteLine(Math.Round(x, 5) + "  |  "+ Math.Round(res, 5));
             }
         }
